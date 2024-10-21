@@ -15,21 +15,6 @@ Seeking a position with a dynamic and growth-oriented organization to utilize my
 - **SSLC**  
   Sri Krishna Matriculation Higher Secondary School, Oddanchatram — 2016  
 
-### Licenses & Certifications
-- **AWS Certified Solutions Architect - Practitioner Level**  
-  Amazon Web Services  
-
-### Professional Experience
-**Application Support Analyst**  
-
-TransUnion Global Capability Center LLP, Chennai  
-*Nov 2021 – Present*  
-
-- Collaborated with developers and project managers to expedite incident resolutions.
-- Conducted software application and disaster recovery testing to ensure business readiness.
-- Provided 24/7 support for web and client-based applications, minimizing business impact.
-- Created knowledge articles for various issues and collaborated with clients to resolve inquiries.
-- Used Smart IT BMC Remedy to manage trouble tickets and partnered with teams to set up Splunk alerts.
 
 ---
                                                       EXPERIENCE 
